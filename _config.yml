@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 
-repository: NRL-Emerging-Architectures/amd_mi50_benchmarks
+repository: emerging-architectures/amd_mi50_benchmarks
 
 show_logo: true
 show_description: false
