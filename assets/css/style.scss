@@ -6,6 +6,7 @@ $nrl-blue: #2E5590;
 $nrl-light-blue: #6DA9CF;
 $nrl-yellow: #FAB208;
 $nrl-gray: #4C4F59;
+$notice-red: crimson;
 
 $body-text-color: rgb(77, 79, 89);  // from brand site
 $body-link-color: #2199e8;          // from brand site
@@ -46,6 +47,11 @@ body {
   h6 {
 	font-weight: bold;
 	}
+}
+
+.notice {
+  color: $notice-red;
+  font-weight: bold;
 }
 
 .page-header {
